@@ -1,4 +1,4 @@
-const API_URL = 'https://crm-examen-back.vercel.app'
+const API_URL = 'https://crm-examen-chi.vercel.app'
 
 async function chargerDonnees() {
     try {
