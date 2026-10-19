@@ -1,5 +1,4 @@
 const API_URL = 'https://crm-examen-chi.vercel.app'
-
 async function chargerDonnees() {
     try {
         const reponse = await fetch(API_URL + '/api/hello')
